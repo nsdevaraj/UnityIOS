@@ -1,0 +1,17 @@
+{
+    "group": "Extended",
+    "libs": [],
+    "frameworks": [],
+    "headerpaths": ["iOS/ViewController/**"],
+    "files":   ["iOS/ViewController/AWAppDelegate.h",
+                "iOS/ViewController/AWAppDelegate.m",
+                "iOS/ViewController/ETInterop.h",
+                "iOS/ViewController/ETInterop.mm",
+                "iOS/ViewController/AWMainViewController.h",
+                "iOS/ViewController/AWMainViewController.m",
+                "iOS/ViewController/AWMainViewController.xib",
+                ],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "linker_flags": []
+}
